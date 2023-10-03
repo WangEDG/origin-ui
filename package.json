@@ -1,0 +1,19 @@
+{
+  "name": "origin-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm only-allow pnpm"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2"
+  }
+}
